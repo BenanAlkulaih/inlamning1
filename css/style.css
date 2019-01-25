@@ -1,0 +1,22 @@
+.container {
+    border: 2px solid black;
+   /* margin: 50 50 auto;*/
+    margin-top: 90px;
+    max-width:600px;
+    margin-bottom: 500px;
+  
+    background-color: bisque;
+  
+
+}
+h1 {
+    text-align: center;
+    margin-top: 25px;
+    color: cornflowerblue;
+}
+button {
+    margin-bottom: 20px;
+}
+body {
+    background-color: antiquewhite;
+}
